@@ -2,7 +2,7 @@
 
 - Theory
   - Procedural programming : 👂 heard
-  - Imperative programming 
+  - Imperative programming : 👂 heard
   - Structured programming
   - Non-structured programming
   - Functional programming
@@ -17,25 +17,25 @@
   - FRP (Functional-reactive)
   - Automata-based programming
   - Domain-specific languages
-  - Multi-paradigm programming
+  - Multi-paradigm programming : 👂 heard
   - Metaprogramming
   - Actor model
 - OOP basics
-  - constructor
-  - new
-  - Static method
-  - Method
+  - constructor : 🖐️ used
+  - new : 🖐️ used
+  - Static method : 🎓 known
+  - Method : 🖐️ used
   - Async method
-  - Getters, Setters
+  - Getters, Setters : 👂 heard
   - Public fields
   - Private fields
   - Field declarations
   - Inheritance
-  - Parent class
+  - Parent class : 🎓 known
   - Polymorphism
   - Abstract class
   - Interface
-  - Encapsulation
+  - Encapsulation : 👂 heard
   - Hidden class
   - Object form
   - instance
