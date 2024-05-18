@@ -1,9 +1,9 @@
 ## JavaScript
 
 - Language
-  - Object
-  - this
-  - arrow function
+  - Object : 🖐️ used
+  - this : 🖐️ used
+  - arrow function : 🖐️ used
   - async function
   - call
   - bind
@@ -11,7 +11,7 @@
   - instanceof
   - ...spread
   - ...rest
-  - typeof
+  - typeof : 🖐️ used
   - destructuring
   - generator
   - iterator
@@ -22,58 +22,58 @@
   - IIFE
   - global
   - globalThis
-  - window
-  - getters and setters
-  - __proto__
-  - prototype
-  - equality operators
-  - logical operators
+  - window : 🖐️ used
+  - getters and setters : 👂 heard
+  - __proto__ : 🎓 known
+  - prototype : 🎓 known
+  - equality operators : 🖐️ used
+  - logical operators : 🖐️ used
   - bitwise operators
-  - ternary operator
+  - ternary operator : 🖐️ used
   - void
   - yield
   - await
   - template literal
-  - strict mode
+  - strict mode : 🖐️ used
   - delete
   - in
-  - super
+  - super : 👂 heard
   - Symbol
   - Reflect
 - Statements
-  - if
-  - while
-  - do..while
-  - for
-  - for..in
-  - for..of
+  - if : 🙋 explained
+  - while : 🙋 explained
+  - do..while : 🙋 explained
+  - for : 🙋 explained
+  - for..in : 🖐️ used
+  - for..of : 🖐️ used
   - for await
   - throw
-  - break
-  - continue
+  - break : 🖐️ used
+  - continue : 🖐️ used
   - import
   - export
   - label
-  - try..catch
-  - switch
-  - class
+  - try..catch : 👂 heard
+  - switch : 🎓 known
+  - class : 🖐️ used
   - new Error
   - with
 - Functions
-  - function declaration
-  - function expression
-  - return
-  - default parameters
+  - function declaration : 🖐️ used
+  - function expression : 🖐️ used
+  - return : 🖐️ used
+  - default parameters 
   - functional object
 - Data structures
-  - Array
+  - Array : 🙋 explained
   - mixin
   - extend
   - typed arrays
   - Map
   - Set
-  - undefined
-  - null
+  - undefined : 🎓 known
+  - null : 🎓 known
   - Proxy
   - weak collections
   - timers
@@ -83,7 +83,7 @@
   - BigInt
 - Infrastructure
   - V8
-  - Node.js
-  - npm
-  - prettier
+  - Node.js : 👂 heard
+  - npm : 👂 heard
+  - prettier : 🖐️ used
   - MDN
