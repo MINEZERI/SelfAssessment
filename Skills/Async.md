@@ -1,8 +1,8 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop
-  - `try..catch`
+  - Event loop: 🎓 known
+  - `try..catch`: 👂 heard
   - Non-blocking
   - Async I/O
   - Thread pool
@@ -25,14 +25,14 @@
   - Callbacks
   - Callback-last-error-first
   - Thenable
-  - Promise
+  - Promise: 👂	heard
   - Async/await
   - Future
   - Deferred
   - Sync generator
   - Async Generator
   - Async Iterator
-  - Event
+  - Event: 🖐️	used
   - Coroutine
   - Goroutine
   - Signal
@@ -79,9 +79,9 @@
 - Techniques
   - Async.js library
   - RxJS library
-  - Promise.all
+  - Promise.all: 🎓	 known
   - Promise.allSettled
-  - Promise.race
+  - Promise.race: 🎓	known
   - Promise.any
   - Web Locks API
   - IPC
