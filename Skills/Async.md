@@ -25,14 +25,14 @@
   - Callbacks
   - Callback-last-error-first
   - Thenable
-  - Promise: 👂	heard
+  - Promise: 👂 heard
   - Async/await
   - Future
   - Deferred
   - Sync generator
   - Async Generator
   - Async Iterator
-  - Event: 🖐️	used
+  - Event: 🖐️ used
   - Coroutine
   - Goroutine
   - Signal
@@ -79,9 +79,9 @@
 - Techniques
   - Async.js library
   - RxJS library
-  - Promise.all: 🎓	 known
+  - Promise.all: 🎓 known
   - Promise.allSettled
-  - Promise.race: 🎓	known
+  - Promise.race: 🎓 known
   - Promise.any
   - Web Locks API
   - IPC

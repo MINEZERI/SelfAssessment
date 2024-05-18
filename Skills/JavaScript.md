@@ -1,22 +1,22 @@
 ## JavaScript
 
 - Language
-  - `Object`: 🖐️	used
-  - `Function`: 🖐️	used
-  - `Boolean`: 🖐️	used
-  - `Number`: 🖐️	used
-  - `BigInt`: 🎓	known
-  - `String`: 🖐️	used
-  - `Symbol`: 🖐️	used
-  - `Infinity`: 🎓	known
-  - `NaN`: 🎓	known
-  - `undefined`: 🎓	known
-  - `null`:  🖐️	used
-  - `this`:  🖐️	used
+  - `Object`: 🖐️ used
+  - `Function`: 🖐️ used
+  - `Boolean`: 🖐️ used
+  - `Number`: 🖐️ used
+  - `BigInt`: 🎓 known
+  - `String`: 🖐️ used
+  - `Symbol`: 🖐️ used
+  - `Infinity`: 🎓 known
+  - `NaN`: 🎓 known
+  - `undefined`: 🎓 known
+  - `null`: 🖐️ used
+  - `this`: 🖐️ used
   - `instanceof`
   - `...spread`
   - `...rest`
-  - `typeof`:  🖐️	used
+  - `typeof`: 🖐️ used
   - Destructuring
   - Generators
   - Iterators
@@ -28,11 +28,11 @@
   - Async IIFE
   - `global`
   - `globalThis`
-  - `window`:  🖐️ used
-  - Getters and setters: 👂	heard
-  - `__proto__`: 🎓	known
-  - `prototype`: 🎓	known
-  - Equality operators: 🖐️ used 
+  - `window`: 🖐️ used
+  - Getters and setters: 👂 heard
+  - `__proto__`: 🎓 known
+  - `prototype`: 🎓 known
+  - Equality operators: 🖐️ used
   - Logical operators: 🖐️ used
   - Logical Assignment: 🖐️ used
   - Bitwise operators
@@ -45,9 +45,9 @@
   - Hoisting
   - `delete`
   - `in`
-  - `super`: 👂	heard	
+  - `super`: 👂 heard
   - `eval`
-  - `static`: 👂	heard	
+  - `static`: 👂 heard
   - `Number.parseInt`
   - `Number.parseFloat`
   - Property descriptors
@@ -55,14 +55,14 @@
   - Freezing properties
   - Computed properties
   - Instance class fields: 🖐️ used
-  - Static class fields: 👂	heard	
+  - Static class fields: 👂 heard
   - Private class fields
   - Private class methods
 - Statements
-  - `if`: 🙋	explained
-  - `while`: 🙋	explained
-  - `do..while`: 🙋	explained
-  - `for`: 🙋	explained
+  - `if`: 🙋 explained
+  - `while`: 🙋 explained
+  - `do..while`: 🙋 explained
+  - `for`: 🙋 explained
   - `for..in`: 🖐️ used
   - `for..of`: 🖐️ used
   - `for await`
@@ -72,12 +72,12 @@
   - `import`: 🖐️ used
   - `export`
   - `label`
-  - `try..catch`: 👂 heard	
+  - `try..catch`: 👂 heard
   - `switch`: 🖐️ used
   - `class`: 🖐️ used
-  - `extends`: 🎓	known	
+  - `extends`: 🎓 known
   - `with`
-  - `new`: 🎓	known	
+  - `new`: 🎓 known
 - Functions
   - Arrow function: 🖐️ used
   - Async function
@@ -106,17 +106,17 @@
   - `Reflect`
   - `Error`
   - `Atomics`
-  - `JSON`: 👂 heard	
+  - `JSON`: 👂 heard
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
-  - `Promise`: 👂	heard	
+  - `Promise`: 👂 heard
   - `console`: 🖐️ used
   - Timers
 - Infrastructure
   - V8
-  - Node.js: 👂 heard	
-  - npm: 👂 heard	
+  - Node.js: 👂 heard
+  - npm: 👂 heard
   - prettier: 🖐️ used
   - MDN
   - TC39
